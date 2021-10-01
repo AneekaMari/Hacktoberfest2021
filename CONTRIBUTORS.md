@@ -120,4 +120,9 @@
 - Bio: I'm a Developer.
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
+#### Name: Aneeka Maria
+- Place: Colombo, West Province, Sri Lanka
+- Bio: A student/beginner in coding
+- GitHub: [AneekaMari](https://github.com/AneekaMari)
+
 
